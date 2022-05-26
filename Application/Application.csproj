@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\Persistence\Persistence.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Channels\" />
+    <None Remove="FluentValidation.AspNetCore" />
+    <None Remove="Errors\" />
+    <None Remove="User\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Validators\" />
+    <None Remove="Messages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.3.4" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Channels\" />
+    <Folder Include="Errors\" />
+    <Folder Include="User\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Messages\" />
+  </ItemGroup>
+</Project>

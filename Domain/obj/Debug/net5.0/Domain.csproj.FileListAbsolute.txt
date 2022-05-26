@@ -1,0 +1,12 @@
+/Users/federicomatos/Projects/NetChat/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/federicomatos/Projects/NetChat/Domain/bin/Debug/net5.0/Domain.dll
+/Users/federicomatos/Projects/NetChat/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/federicomatos/Projects/NetChat/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/federicomatos/Projects/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/federicomatos/Projects/NetChat/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/federicomatos/Projects/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/federicomatos/Projects/NetChat/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/federicomatos/Projects/NetChat/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/federicomatos/Projects/NetChat/Domain/obj/Debug/net5.0/Domain.dll
+/Users/federicomatos/Projects/NetChat/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/federicomatos/Projects/NetChat/Domain/obj/Debug/net5.0/Domain.pdb
